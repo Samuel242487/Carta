@@ -1,0 +1,20 @@
+.carta {
+    border: 10px solid #d30ca1;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    min-height: 200px; /* Altura mínima */
+    width: 500px; /* Ancho de la carta */
+    margin: 20px auto;
+    white-space: pre-wrap; /* Permite que las líneas se bajen automáticamente */
+}
+
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfTwhUQWQHpkYNhJjNoKnwiZr7X94wRDUow&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
